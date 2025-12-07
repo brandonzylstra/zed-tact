@@ -1,6 +1,6 @@
 id = "tact"
 name = "Tact"
-description = "Tact language support. Needs Tact Standard Library: npm install @tact-lang/compiler"
+description = "Tact is a fresh programming language for TON Blockchain that is focused on efficiency and ease of development. You need the Tact Standard Library: npm install @tact-lang/compiler"
 version = "0.0.1"
 schema_version = 1
 authors = ["Mikal Sande <mikal.sande@gmail.com>"]
